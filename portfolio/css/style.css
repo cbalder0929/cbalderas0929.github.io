@@ -1,0 +1,73 @@
+/* Basic CSS resets -- leveling slight inconsistencies in browsers */
+html, body {
+	margin:0px;
+	padding:0px;
+	height:100%;
+	background-color:#BFBDBD;
+}
+
+html {
+		/* Standard text-settings below */
+	font-size: 1em;
+    line-height: 1.4em;
+}
+
+
+
+
+body {
+	text-align:center;
+	font-family: 'Courier New', monospoce;
+	margin:5px;
+	
+	
+}
+
+
+#container {
+	background-color:#BFBDBD;
+	border:1px solid black;
+	width:90%
+	max-width:800px;
+	margin:auto;
+	
+}
+ul{
+	
+	list-style:none;
+	padding-left:10px;
+	
+	
+
+	}
+a{
+	background-color:#D20103;
+	color:white;
+	text-decoration:none;
+	border-radius:25px;
+	padding:8px;
+	}
+	a:hover{
+		background-color:black;
+		
+		}
+	li{
+		margin:20px;
+		
+		}
+		img{
+			border:5px solid #920F11;
+			
+			}
+figure{
+	margin:0px;
+	
+	
+	}
+	figure img{
+		width: 90%;
+		
+		}
+
+
+
