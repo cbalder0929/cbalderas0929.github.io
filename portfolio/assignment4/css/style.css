@@ -1,0 +1,79 @@
+/* Basic CSS resets -- leveling slight inconsistencies in browsers */
+html, body {
+	margin:0px;
+	padding:0px;
+	height:100%;
+}
+
+html {
+		/* Standard text-settings below */
+	font-size: 1em;
+    line-height: 1.4em;
+}
+
+
+
+
+body {
+
+	background: rgb(25,255,0);
+background: linear-gradient(90deg, rgba(25,255,0,1) 0%, rgba(135,135,135,1) 50%, rgba(0,0,0,1) 100%);
+
+	  
+}
+h1{
+	font-size:200px;
+	font-weight:bold;
+	position:fixed;
+	z-index:1;
+	text-shadow: 5px 5px #787978;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#254D20;
+	letter-spacing:25px;
+rotate:30deg;
+}
+
+	
+	
+
+p{
+	
+	
+
+	font-size:90px;
+	line-height:1.2;
+	text-shadow: 4px 5px #2B8721;
+	
+	position:static;
+	z-index:-1;
+	rotate:123deg;
+	letter-spacing:2.5px;
+line-height:1.8;
+top:100px;
+	
+
+	
+
+
+	}
+	
+footer{
+	font-size:150px;
+	position:fixed;
+	color:#F5F6F4;
+	word-spacing:50px;
+	letter-spacing:30px;
+	z-index:2;
+	top:40px;
+}
+
+h2{
+	font-size:200px;
+	
+	}
+
+	
+
+
+
